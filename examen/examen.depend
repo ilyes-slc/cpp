@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\ikel\desktop\cpp\examen\main.cpp
+	<iostream>
+
+1687776653 source:c:\users\ikel\desktop\cpp\examen\ingredient.cpp
+	"Ingredient.h"
+
+1687776703 c:\users\ikel\desktop\cpp\examen\ingredient.h
+	<string>
+	<iostream>
+
+1687775898 source:c:\users\ikel\desktop\cpp\examen\plat.cpp
+	"Plat.h"
+
+1687776709 c:\users\ikel\desktop\cpp\examen\plat.h
+	<string>
+	<vector>
+	<iostream>
+
+1687775881 source:c:\users\ikel\desktop\cpp\examen\supplement.cpp
+	"Supplement.h"
+
+1687776716 c:\users\ikel\desktop\cpp\examen\supplement.h
+	<string>
+	<iostream>
+	<Ingredient.h>
+
